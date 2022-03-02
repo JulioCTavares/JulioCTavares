@@ -1,4 +1,4 @@
-## Olá me chamo Julio Tavares, sou Desenvolvedor de Software.
+## Olá me chamo Julio Tavares, sou Desenvolvedor Backend focado na stack NodeJS.
 
 <br>
 
